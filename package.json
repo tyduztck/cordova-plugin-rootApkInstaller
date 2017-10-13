@@ -1,7 +1,7 @@
 {
   "name": "RootApkInstaller",
-  "version": "0.0.1",
-  "description": "Apk Installer with user interaction (Only Rooted devices)",
+  "version": "1.0.0",
+  "description": "Apk Installer only for rooted devices",
   "cordova": {
     "id": "cordova-plugin-rootApkInstaller",
     "platforms": [
