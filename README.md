@@ -25,6 +25,6 @@ function onDeviceReady() {
 	);
 }
 
-##Notice
+## Notice
 Only for Android rooted devices.
 
