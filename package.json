@@ -1,0 +1,13 @@
+{
+  "name": "RootApkInstaller",
+  "version": "0.0.1",
+  "description": "Apk Installer with user interaction (Only Rooted devices)",
+  "cordova": {
+    "id": "cordova-plugin-rootApkInstaller",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "CKTEO",
+  "license": "MIT"
+}
